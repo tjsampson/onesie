@@ -1,6 +1,6 @@
 export default {
-  host: '0.0.0.0',
-  port: '4000',
+  host: 'node.flowstate.io',
+  port: '3000',
   protocol: 'http:',
   token: ''
 };
